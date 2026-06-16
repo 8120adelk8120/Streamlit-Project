@@ -1,2 +1,2 @@
 # Prediction-of-Titanic-survivors
- لینک پروژه : https://app-project-a8eqmm3rrqxixwzh3jed8d.streamlit.app/
+ لینک پروژه : https://prediction-of-titanic-survivors-with-app-project-p6xh2mxkmrvpt.streamlit.app/
